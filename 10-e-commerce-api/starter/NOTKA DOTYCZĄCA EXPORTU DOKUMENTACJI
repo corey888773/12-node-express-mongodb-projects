@@ -1,0 +1,2 @@
+windows_amd64 build -i C:\Users\Piotr\node-js-course\10-e-commerce-api\starter\docs.json -o C:\Users\Piotr\node-js-course\10-e-commerce-api\starter\index.html
+https://sedx876.medium.com/using-docgen-on-windows-to-generate-postman-api-documentation-c4fc1724fef2
